@@ -1,0 +1,95 @@
+<html>   
+   <head>
+<title>resume 
+
+</title>
+</head>
+
+
+<body>
+    <center>
+        <div style ="background-color: rgb(59, 59, 75);" 
+        <h1><U>MY RESUME</U></h1>
+    
+    </center>
+
+    <h3>HRIDOY CHOWDHURY
+
+    </h3>
+    <img src="A2A_6046.JPG" width="200" height="200" hspace=300 align= right>
+    <h3>
+        Maijdee, Noakhali 
+    </h3>  
+   <h3>
+       Hridoychy232@gmail
+     </h3>
+    <h3>
+        Contact NO :01776443149
+    </h3> <hr>
+<h2>
+    <div style ="background-color: rgb(235, 5, 158);" 
+    <u> career objective </u>
+</h2>
+<h3> Seeking for the position of a Programmer at ABC to utilize
+     teamwork and leadership skills in coordinating the effort of programmers.
+      Also, bringing exceptional skills in designing, coding, testing, 
+      and implementing customizations to exceed customer expectations.
+</h3>
+<h2>
+    <div style ="background-color: rgb(93, 150, 46);" 
+<u> academic qualification</u>
+</h2>
+<table border="0" width=1000>
+    <tr>
+        <th>qualification</th>
+        <th>institute</th>
+        <th>passing year</th>
+        <th>marks</th>
+
+    </tr>
+    <tr>
+        <th>SSC</th>
+        <th>GOVt technical high school</th>
+        <th>2014</th>
+        <th>4.50</th>
+        
+    </tr>
+    <tr>
+        <th>HSC</th>
+        <th>NOakhali GOVt collage</th>
+        <th>2016</th>
+        <th>3.25</th>
+        
+    </tr>  
+
+</table>
+<h2>
+    <u> Strenght</u>
+</h2>
+<b>
+<h3>
+    <li>Self Motivated</li>
+    <li>Good communication</li>
+   
+</h3>
+</b>
+<h2>
+    <u> Hobbies</u>
+</h2>
+<b>
+<h3>
+    <li>GAming</li>
+    <li>Bike ride</li>
+    <li>traveling</li>
+
+
+   
+</h3>
+</b>
+  
+<div style ="background-color: rgb(240, 0, 0);" 
+
+</body>
+</P>
+
+</html>
